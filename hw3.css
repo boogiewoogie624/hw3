@@ -1,0 +1,141 @@
+/*
+ Author: Hailey Martinez
+ Date: 11/09/2024
+ Purpose: To style my homework 3 HTML file
+
+ */
+ 
+ 
+ body
+   {
+      background-color:rgb(200, 215, 200); 
+      padding-left:45%; 
+      color:rgb(0, 0, 0);
+      font-size:20px; 
+      font-family:Garamond, serif;
+      width: 100%;
+      border: 10px solid green;
+      padding: 50px;
+      margin: 20px;
+   }
+h1
+   {
+      color:rgb(73, 117, 74); font-size:80px; font-family:Copperplate, fantasy; text-align:center;
+   }
+.center 
+   {
+      margin: auto;
+      width: 100%;
+      padding: 10px;
+   }
+h2
+   {
+      color:rgb(73, 117, 74);
+      font-size:40px;
+      font-family:Copperplate, fantasy;
+      text-align:center;
+   }
+form
+   {
+      text-align:"right";
+   }
+.header10
+   {
+      text-size-adjust: 50px; font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+.picture
+   {
+      height:10%;
+      width:10%;
+      padding-left:45%;
+   }
+footer{
+   text-align: center;
+}body
+   {
+      background-color:rgb(200, 215, 200); 
+      padding-left:45%; 
+      color:rgb(0, 0, 0);
+      font-size:20px; 
+      font-family:Garamond, serif;
+      width: 100%;
+      border: 10px solid green;
+      padding: 50px;
+      margin: 20px;
+   }
+h1
+   {
+      color:rgb(73, 117, 74); font-size:80px; font-family:Copperplate, fantasy; text-align:center;
+   }
+.center 
+   {
+      margin: auto;
+      width: 100%;
+      padding: 10px;
+   }
+h2
+   {
+      color:rgb(73, 117, 74);
+      font-size:40px;
+      font-family:Copperplate, fantasy;
+      text-align:center;
+   }
+form
+   {
+      text-align:"right";
+   }
+.header10
+   {
+      text-size-adjust: 50px; font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+.picture
+   {
+      height:10%;
+      width:10%;
+      padding-left:45%;
+   }
+footer{
+   text-align: center;
+}
+
+.error {
+   color: red;
+   font-size: 12px;
+   font-family: Garamond, serif;
+   font-weight: normal;
+}
+
+.password-message {
+   text-align: right;
+   font-family: Garamond, serif;
+   font-weight: normal;
+   position: relative;
+   left: 100px;
+   background: transparent;
+   padding: 10px;
+   border-spacing: 2px;
+   border-radius: 20px;
+   color: red;
+}
+
+#review{
+   margin-top: 5px;
+}
+
+table.ouput,
+tr.ouput,
+td.output {
+   width:500px;
+   background-color: forestgreen;
+   padding: 10px;
+   border-spacing: 2px;
+   border-radius: 20px;
+   color: black;
+}
+
+td.ouput {
+   width: 500px;
+   background-color: lightgreen;
+   padding: 10px;
+   border-spacing: 2px;
+}
